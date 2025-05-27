@@ -10,7 +10,7 @@ plugins:
 markdown: kramdown
 
 website:
-  title: Adam Schroeder
+  title: This does nothing
   navbar:
     background: "#bdb76b"
     foreground: "#424894"
