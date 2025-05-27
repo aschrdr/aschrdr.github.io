@@ -10,9 +10,11 @@ markdown: kramdown
 website:
   title: Adam Schroeder
   navbar:
-  left:
-    - href: index.md
-      text: Home
+    background: "#bdb76b"
+    foreground: "#424894"
+    left:
+      - href: index.md
+        text: Home
 
 format:
   html:
