@@ -20,7 +20,10 @@ website:
 
 format:
   html:
-    theme: jekyll-theme-midnight
+    theme: lux
+    fontcolor: "#000000"
+    monobackgroundcolor: "#808000"
+    backgroundcolor: "#cecba4"
     css: styles.css
     toc: true
 
