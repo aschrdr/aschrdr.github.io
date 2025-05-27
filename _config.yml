@@ -1,3 +1,5 @@
+favicon: assets/favicon.ico
+
 project:
   type: website
   output-dir: docs
