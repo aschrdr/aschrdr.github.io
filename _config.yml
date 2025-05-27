@@ -1,30 +1,6 @@
 favicon: assets/favicon.ico
 
-project:
-  type: website
-  output-dir: docs
-
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 markdown: kramdown
-
-website:
-  title: This does nothing
-  navbar:
-    background: "#bdb76b"
-    foreground: "#424894"
-    left:
-      - href: index.md
-        text: Home
-
-format:
-  html:
-    theme: lux
-    fontcolor: "#000000"
-    monobackgroundcolor: "#808000"
-    backgroundcolor: "#cecba4"
-    css: styles.css
-    toc: true
-
-editor: visual
