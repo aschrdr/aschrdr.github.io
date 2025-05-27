@@ -5,8 +5,6 @@ format:
     embed-resources: true
 about: 
   id: hero-heading
-  template: solana
-  image: images/biost_photo.jpg
   links:
     - icon: send
       text: Email
