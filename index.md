@@ -2,8 +2,19 @@
 layout: home
 ---
 
-# This is a header
-It will not do anything
-
-# This is also a header
-> This will not be a block of text
+title: "Adam Schroeder"
+format: 
+  html:
+    embed-resources: true
+about: 
+  id: hero-heading
+  links:
+    - icon: send
+      text: Email
+      href: mailto:aschroe1@macalester.edu
+    - icon: github
+      text: Github
+      href: https://github.com/aschrdr
+    - icon: link
+      text: LinkedIn
+      href: www.linkedin.com/in/adam-schrdr
