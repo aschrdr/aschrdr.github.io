@@ -1,4 +1,8 @@
-remote_theme: pages-themes/midnight@v0.2.0
+project:
+  type: website
+  output-dir: docs
+
+# remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 markdown: kramdown
@@ -11,3 +15,11 @@ website:
       text: Home
     - publications.md
     - code.md
+
+format:
+  html:
+    remote_theme: pages-themes/midnight@v0.2.0
+    css: styles.css
+    toc: true
+
+editor: visual
