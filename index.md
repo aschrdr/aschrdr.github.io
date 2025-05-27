@@ -1,6 +1,5 @@
 ---
 layout: home
----
 
 title: "Adam Schroeder"
 format: 
@@ -18,3 +17,4 @@ about:
     - icon: link
       text: LinkedIn
       href: www.linkedin.com/in/adam-schrdr
+---
