@@ -7,6 +7,8 @@ website:
   title: Adam Schroeder
   navbar:
   left:
+    - href:
+      text: Home
     - home.md
     - publications.md
     - code.md
