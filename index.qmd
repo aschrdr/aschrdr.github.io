@@ -7,6 +7,7 @@ format:
     embed-resources: true
 about: 
   id: hero-heading
+  template: arcana
   links:
     - icon: send
       text: Email
@@ -16,5 +17,5 @@ about:
       href: https://github.com/aschrdr
     - icon: link
       text: LinkedIn
-      href: www.linkedin.com/in/adam-schrdr
+      href: https://www.linkedin.com/in/adam-schrdr/
 ---
