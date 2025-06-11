@@ -1,7 +1,5 @@
 ---
-layout: home
-
-title: "Home"
+title: "About"
 format: 
   html:
     embed-resources: true
