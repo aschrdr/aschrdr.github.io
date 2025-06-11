@@ -3,3 +3,10 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.text-col {
+  height: 80%;
+    background-color: dimgray;
+      padding-left: 10px;
+        box-sizing: border-box;
+}
