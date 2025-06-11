@@ -9,7 +9,7 @@ website:
 title: "Adam Schroeder"
   navbar:
     background: transparent
-    left:
+    right:
       - href: index.qmd
       - text: Home
 
