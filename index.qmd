@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: "Adam Schroeder"
+title: "Home"
 format: 
   html:
     embed-resources: true
