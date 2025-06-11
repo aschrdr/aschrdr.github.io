@@ -1,0 +1,20 @@
+---
+title: "About"
+format: 
+  html:
+    embed-resources: true
+about: 
+  id: hero-heading
+  template: marquee
+  image: double_pendulum.png
+  links:
+    - icon: send
+      text: Email
+      href: mailto:aschr@ucla.edu
+    - icon: github
+      text: Github
+      href: https://github.com/aschrdr
+    - icon: link
+      text: LinkedIn
+      href: https://www.linkedin.com/in/adam-schrdr/
+---
