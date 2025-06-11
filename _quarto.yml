@@ -10,12 +10,12 @@ title: "Adam Schroeder"
   navbar:
     background: transparent
     left:
+      - href: index.qmd
       - text: Home
-        href: "index.html"
 
 format:
   html:
-    style: "styles.css"
+    css: styles.css
 
 # remote_theme: pages-themes/midnight@v0.2.0
 # plugins:
